@@ -1,0 +1,7 @@
+C:\Users\yang\Desktop\PCAD5\Projects\Week2\Assignment2.2.1\bin\Debug\Assignment2.2.1.exe.config
+C:\Users\yang\Desktop\PCAD5\Projects\Week2\Assignment2.2.1\bin\Debug\Assignment2.2.1.exe
+C:\Users\yang\Desktop\PCAD5\Projects\Week2\Assignment2.2.1\bin\Debug\Assignment2.2.1.pdb
+C:\Users\yang\Desktop\PCAD5\Projects\Week2\Assignment2.2.1\obj\Debug\Assignment2.2.1.csproj.AssemblyReference.cache
+C:\Users\yang\Desktop\PCAD5\Projects\Week2\Assignment2.2.1\obj\Debug\Assignment2.2.1.csproj.CoreCompileInputs.cache
+C:\Users\yang\Desktop\PCAD5\Projects\Week2\Assignment2.2.1\obj\Debug\Assignment2.2.1.exe
+C:\Users\yang\Desktop\PCAD5\Projects\Week2\Assignment2.2.1\obj\Debug\Assignment2.2.1.pdb
